@@ -1,0 +1,10 @@
+﻿  Tiny_File_System.cpp
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(87): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(159): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(133): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(226): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(230): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(238): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(184): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\martin\documents\ece 4310\tiny_file_system\tiny_file_system\tiny_file_system.cpp(170): warning C4715: 'FileDirectory::Read': not all control paths return a value
+  Tiny_File_System.vcxproj -> C:\Users\Martin\Documents\ECE 4310\Tiny_File_System\Debug\Tiny_File_System.exe
